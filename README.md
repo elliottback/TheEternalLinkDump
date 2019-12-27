@@ -12,6 +12,8 @@ All the cool or interesting links I want to save (ArchiveTeam got my back I hope
 
 # Programming Related
 
+* Free Stuff!  - https://free-for.dev/
+
 ## Libraries
 
 ### Scraping
