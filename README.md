@@ -5,6 +5,10 @@ All the cool or interesting links I want to save (ArchiveTeam got my back I hope
 
 * Standard Ebooks - Classic Books, well formatted - https://standardebooks.org/ebooks/
 
+# Courses
+
+* Learn Chinese (and more) - https://ocw.mit.edu/courses/find-by-topic/#cat=humanities&subcat=language&spec=chinese
+
 # Makers
 
 * UsesThis - interviews about toolchains - https://usesthis.com/
