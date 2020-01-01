@@ -8,6 +8,7 @@ All the cool or interesting links I want to save (ArchiveTeam got my back I hope
 # Courses
 
 * Learn Chinese (and more) - https://ocw.mit.edu/courses/find-by-topic/#cat=humanities&subcat=language&spec=chinese
+* Finance from CME - https://www.cmegroup.com/education/courses/introduction-to-eurodollars.html
 
 # Makers
 
