@@ -10,6 +10,10 @@ All the cool or interesting links I want to save (ArchiveTeam got my back I hope
 * Learn Chinese (and more) - https://ocw.mit.edu/courses/find-by-topic/#cat=humanities&subcat=language&spec=chinese
 * Finance from CME - https://www.cmegroup.com/education/courses/introduction-to-eurodollars.html
 
+# Media
+
+* Old illustrations - https://www.oldbookillustrations.com/
+
 # Makers
 
 * UsesThis - interviews about toolchains - https://usesthis.com/
