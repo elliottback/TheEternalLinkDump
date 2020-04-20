@@ -4,6 +4,7 @@ All the cool or interesting links I want to save (ArchiveTeam got my back I hope
 # Books
 
 * Standard Ebooks - Classic Books, well formatted - https://standardebooks.org/ebooks/
+* Curated Bookshelves - https://tomcritchlow.com/wiki/books/bookshelves/
 
 # Courses
 
