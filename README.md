@@ -38,6 +38,10 @@ All the cool or interesting links I want to save (ArchiveTeam got my back I hope
 * NuShell - a data-driven shell - https://book.nushell.sh/en/installation
 * WTF - personal info terminal dashboard - https://wtfutil.com/ 
 
+## Servers
+
+* Subsonic (music library) - http://www.subsonic.org/pages/installation.jsp#debian
+
 # License
 
 See [LICENSE](LICENSE)
