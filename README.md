@@ -37,6 +37,7 @@ All the cool or interesting links I want to save (ArchiveTeam got my back I hope
 
 * NuShell - a data-driven shell - https://book.nushell.sh/en/installation
 * WTF - personal info terminal dashboard - https://wtfutil.com/ 
+* Wttr.in - command line weather - https://github.com/chubin/wttr.in
 
 ## Servers
 
