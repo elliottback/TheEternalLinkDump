@@ -43,6 +43,10 @@ All the cool or interesting links I want to save (ArchiveTeam got my back I hope
 
 * Subsonic (music library) - http://www.subsonic.org/pages/installation.jsp#debian
 
+## EBIZ
+
+* Kickstarter-like interface for Shopify - https://github.com/cmod/craigstarter
+
 # License
 
 See [LICENSE](LICENSE)
