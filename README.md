@@ -50,6 +50,7 @@ All the cool or interesting links I want to save (ArchiveTeam got my back I hope
 ## EBIZ
 
 * Kickstarter-like interface for Shopify - https://github.com/cmod/craigstarter
+* Medium-like publishing platform - https://ghost.org/
 
 # License
 
