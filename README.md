@@ -52,6 +52,13 @@ All the cool or interesting links I want to save (ArchiveTeam got my back I hope
 * Kickstarter-like interface for Shopify - https://github.com/cmod/craigstarter
 * Medium-like publishing platform - https://ghost.org/
 
+## Data
+
+### Whisky
+
+* Ralphy Archive - http://ralfywhisky.webnode.be/ralfy/
+* Reddit Reviews - https://github.com/KenHBS/WhiskyEmbeddings
+
 # License
 
 See [LICENSE](LICENSE)
