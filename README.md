@@ -60,6 +60,12 @@ All the cool or interesting links I want to save (ArchiveTeam got my back I hope
 * Ralphy Archive - http://ralfywhisky.webnode.be/ralfy/
 * Reddit Reviews - https://github.com/KenHBS/WhiskyEmbeddings
 
+# Food
+
+## Stories of Food
+
+* McDonald's Fries - https://www.atlasobscura.com/articles/original-mcdonalds-french-fry-recipe
+
 # License
 
 See [LICENSE](LICENSE)
