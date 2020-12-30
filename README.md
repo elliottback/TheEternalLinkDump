@@ -61,6 +61,10 @@ All the cool or interesting links I want to save (ArchiveTeam got my back I hope
 * Kickstarter-like interface for Shopify - https://github.com/cmod/craigstarter
 * Medium-like publishing platform - https://ghost.org/
 
+## Books
+
+* List of online CS textbooks - https://csgordon.github.io/books.html
+
 ## Data
 
 ### Whisky
