@@ -67,6 +67,10 @@ All the cool or interesting links I want to save (ArchiveTeam got my back I hope
 
 ## Data
 
+## Javascript
+
+* Typescript boilerplates - https://www.metachris.com/2021/04/starting-a-typescript-project-in-2021/
+
 ### Whisky
 
 * Ralphy Archive - http://ralfywhisky.webnode.be/ralfy/
