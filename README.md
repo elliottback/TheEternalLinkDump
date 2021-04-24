@@ -25,6 +25,10 @@ All the cool or interesting links I want to save (ArchiveTeam got my back I hope
 * UsesThis - interviews about toolchains - https://usesthis.com/
 * IndieHackers - interviews about startups - https://www.indiehackers.com/
 
+# Science
+
+* DIY photospectrometer - https://github.com/leswright1977/PySpectrometer
+
 # Programming Related
 
 * Free Stuff!  - https://free-for.dev/
