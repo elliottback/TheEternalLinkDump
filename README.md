@@ -1,6 +1,10 @@
 # TheEternalLinkDump
 All the cool or interesting links I want to save (ArchiveTeam got my back I hope) but not necessarily use yet
 
+# Finance
+
+* Save money on shipping - https://www.parcelmonkey.com/
+
 # Thesis ideas
 
 * A statistical fingerprinting method for image data to determine digital camera model
