@@ -63,6 +63,7 @@ All the cool or interesting links I want to save (ArchiveTeam got my back I hope
 ## Servers
 
 * Subsonic (music library) - http://www.subsonic.org/pages/installation.jsp#debian
+* Hosted static websites - https://gohugo.io/hosting-and-deployment/hosting-on-netlify/
 
 ## Data Processing
 
