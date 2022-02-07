@@ -90,6 +90,10 @@ All the cool or interesting links I want to save (ArchiveTeam got my back I hope
 * Ralphy Archive - http://ralfywhisky.webnode.be/ralfy/
 * Reddit Reviews - https://github.com/KenHBS/WhiskyEmbeddings
 
+### Graphics
+
+* Pixel art emoji - https://dotown.maeda-design-room.net/
+
 # Food
 
 ## Stories of Food
